@@ -4,9 +4,10 @@
 I'm currently in my fourth year at NTNU, doing a master's degree in Communication Technology and Digital Security 💻🔐.
 I like to do a bit of both development and cybersecurity and am looking to go into a career in cybersecurity. 
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tildeeine&show_icons=true&hide=stars,contribs&show=prs_merged&hide_rank=true&theme=date_night)
+![Tilde's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tildeeine&show_icons=true&hide=stars,contribs&show=prs_merged&hide_rank=true&theme=date_night)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tildeeine&size_weight=0.5&count_weight=0.5&theme=date_night)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2>💼 Technologies & Skills</h2>
+<h2>💼 Languages and tools</h2>
 
 <!--TODO: Upload language icons to repo-->
 
