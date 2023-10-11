@@ -9,13 +9,21 @@ I like to do a bit of both development and cybersecurity and am looking to go in
 
 <h2>💼 Languages and tools</h2>
 
-<!--TODO: Upload language icons to repo-->
 
-- <!--![Java Icon]--> Java
-- <!--![Python Icon]--> Python
-- <!--![JavaScript Icon]--> JavaScript
-- <!--![TypeScript Icon]--> TypeScript
-- <!--![GitHub Icon] --> GitHub
+![python](https://img.shields.io/badge/Python-black?logo=python)
+![Java](https://img.shields.io/badge/Java-black?logo=java)
+![javascript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
+![typescript](https://img.shields.io/badge/TypeScript-black?logo=typescript)
+![git](https://img.shields.io/badge/git-black?logo=git)
+![github](https://img.shields.io/badge/github-black?logo=github)
+![kalilinux](https://img.shields.io/badge/KaliLinux-black?logo=kalilinux)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-black?logo=VirtualBox)
+![visualstudiocode](https://img.shields.io/badge/VisualStudioCode-black?logo=visualstudiocode)
+![React](https://img.shields.io/badge/React-black?logo=React)
+![jUnit5](https://img.shields.io/badge/jUnit5-black?logo=junit5)
+![HTML5](https://img.shields.io/badge/HTML5-black?logo=HTML5)
+![CSS3](https://img.shields.io/badge/CSS3-black?logo=CSS3)
+
 
 
 <h2>📌Pinned CV highlights:</h2>
