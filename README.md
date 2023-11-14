@@ -35,7 +35,7 @@ I like to do a bit of both development and cybersecurity and am looking to go in
 
 <h2>What else?</h2>
 
-📚 **Member of CTF team** both at my home university and my host university on exchange. Continuously learning and seeking opportunities in cybersecurity.<br> <!--TODO: Link to blog/"docs" page once created-->
+📚 Continuously learning and seeking opportunities in cybersecurity.<br> <!--TODO: Link to blog/"docs" page once created-->
 🥋 **6x Norwegian Karate Champion**- both Senior & Junior Women's Team!<br>
 🌲 **An avid hiker**; trekked from Trondheim to Oslo in the summer of 2021.<br> <!--TODO: Add img of hiking trip and link to budstikka article-->
 🌐 Fluent in **Norwegian** and **English**.<br> 
