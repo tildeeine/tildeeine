@@ -1,25 +1,27 @@
 <!--TODO: Add banner-->
 <h1> Hei, jeg er Tilde! // Hi, I'm Tilde! 🙋‍♀️</h1>
 
-I'm currently in my fourth year at NTNU, doing a master's degree in Communication Technology and Digital Security 💻🔐.
+I'm currently in my fourth year at NTNU, doing a master's degree in Cybersecurity and Data Communication 💻🔐.
 I like to do a bit of both development and cybersecurity and am looking to go into a career in cybersecurity. 
 
 <h2>💼 Languages and tools</h2>
 
 ![python](https://img.shields.io/badge/Python-black?logo=python)
 ![Java](https://img.shields.io/badge/Java-black?logo=java)
+![jUnit5](https://img.shields.io/badge/jUnit5-black?logo=junit5)
 ![javascript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
 ![typescript](https://img.shields.io/badge/TypeScript-black?logo=typescript)
-![git](https://img.shields.io/badge/git-black?logo=git)
-![github](https://img.shields.io/badge/github-black?logo=github)
-![kalilinux](https://img.shields.io/badge/KaliLinux-black?logo=kalilinux)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-black?logo=VirtualBox)
-![vagrant](https://img.shields.io/badge/Vagrant-black?logo=vagrant)
-![visualstudiocode](https://img.shields.io/badge/VisualStudioCode-black?logo=visualstudiocode)
+![Flask](https://img.shields.io/badge/flask-black?logo=flask)
 ![React](https://img.shields.io/badge/React-black?logo=React)
-![jUnit5](https://img.shields.io/badge/jUnit5-black?logo=junit5)
+![Tailwind](https://img.shields.io/badge/tailwindcss-black?logo=tailwindcss)
+![vagrant](https://img.shields.io/badge/Vagrant-black?logo=vagrant)
 ![HTML5](https://img.shields.io/badge/HTML5-black?logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS3-black?logo=CSS3)
+![kalilinux](https://img.shields.io/badge/KaliLinux-black?logo=kalilinux)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-black?logo=VirtualBox)
+![visualstudiocode](https://img.shields.io/badge/VisualStudioCode-black?logo=visualstudiocode)
+![git](https://img.shields.io/badge/git-black?logo=git)
+![github](https://img.shields.io/badge/github-black?logo=github)
 
 
 
@@ -33,7 +35,6 @@ I like to do a bit of both development and cybersecurity and am looking to go in
 <h2>What else?</h2>
 
 📚 Continuously learning and seeking opportunities in cybersecurity.<br> <!--TODO: Link to blog/"docs" page once created-->
-🥋 **6x National Norwegian Karate Champion**- both Senior & Junior Women's Team!<br>
 🌲 **An avid hiker**; I regularly hike, and made a longer solo trek from [Trondheim to Oslo](https://www.budstikka.no/tilde-20-reiser-hjem-fra-trondheim-til-fots/s/5-55-1085043) in the summer of 2021.<br> <!--TODO: Add img of hiking trip and link to budstikka article-->
 🌐 Fluent in **Norwegian** and **English**.<br> 
 
