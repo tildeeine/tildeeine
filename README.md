@@ -5,15 +5,15 @@ I'm a 23-year-old developer currently in my fourth year at NTNU, doing a master'
 
 <h2>💼 Languages and tools</h2>
 
-Languages: ![python](https://img.shields.io/badge/Python-black?logo=python) ![Java](https://img.shields.io/badge/Java-black?logo=java) ![javascript](https://img.shields.io/badge/JavaScript-black?logo=javascript) ![typescript](https://img.shields.io/badge/TypeScript-black?logo=typescript) 
+Languages: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![python](https://img.shields.io/badge/Python-black?logo=python) ![Java](https://img.shields.io/badge/Java-black?logo=java) ![javascript](https://img.shields.io/badge/JavaScript-black?logo=javascript) ![typescript](https://img.shields.io/badge/TypeScript-black?logo=typescript) 
 
-Version control:![git](https://img.shields.io/badge/git-black?logo=git) ![github](https://img.shields.io/badge/github-black?logo=github)
+Version control:&nbsp;&nbsp;&nbsp;![git](https://img.shields.io/badge/git-black?logo=git) ![github](https://img.shields.io/badge/github-black?logo=github)
 
-Testing: ![jUnit5](https://img.shields.io/badge/jUnit5-black?logo=junit5) ![Mockito](https://img.shields.io/badge/mockito-black?logo=mockito)
+Testing: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![jUnit5](https://img.shields.io/badge/jUnit5-black?logo=junit5) ![Mockito](https://img.shields.io/badge/mockito-black?logo=mockito)
 
-Frameworks: ![React](https://img.shields.io/badge/React-black?logo=React) ![Tailwind](https://img.shields.io/badge/tailwindcss-black?logo=tailwindcss) ![Flask](https://img.shields.io/badge/flask-black?logo=flask)
+Frameworks: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![React](https://img.shields.io/badge/React-black?logo=React) ![Tailwind](https://img.shields.io/badge/tailwindcss-black?logo=tailwindcss) ![Flask](https://img.shields.io/badge/flask-black?logo=flask)
 
-Other tools: ![vagrant](https://img.shields.io/badge/Vagrant-black?logo=vagrant) ![kalilinux](https://img.shields.io/badge/KaliLinux-black?logo=kalilinux) ![VirtualBox](https://img.shields.io/badge/VirtualBox-black?logo=VirtualBox)
+Other tools:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![vagrant](https://img.shields.io/badge/Vagrant-black?logo=vagrant) ![kalilinux](https://img.shields.io/badge/KaliLinux-black?logo=kalilinux) ![VirtualBox](https://img.shields.io/badge/VirtualBox-black?logo=VirtualBox)
 
 
 <h2>📌CV highlights:</h2>
