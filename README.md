@@ -9,7 +9,7 @@ I'm a 23-year-old developer currently in my fourth year at NTNU, doing a master'
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tildeeine&count_private=true&show_icons=true&theme=gruvbox" height="150"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tildeeine&theme=gruvbox&hide_border=false" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SanderOlinJ&show_icons=true&theme=gruvbox&layout=compact&langs_count=8&hide_border=true" height="150"/>
+
 
 </div>
 
