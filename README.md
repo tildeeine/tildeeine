@@ -3,6 +3,16 @@
 
 I'm a 23-year-old developer currently in my fourth year at NTNU, doing a master's degree in Cybersecurity and Data Communication 💻🔐.
 
+<h2>📈 Stats </h2>
+
+<div>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tildeeine&count_private=true&show_icons=true&theme=gruvbox" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tildeeine&theme=gruvbox&hide_border=false" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SanderOlinJ&show_icons=true&theme=gruvbox&layout=compact&langs_count=8&hide_border=true" height="150"/>
+
+</div>
+
 <h2>💼 Languages and tools</h2>
 
 Languages: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![python](https://img.shields.io/badge/Python-black?logo=python) ![Java](https://img.shields.io/badge/Java-black?logo=java) ![javascript](https://img.shields.io/badge/JavaScript-black?logo=javascript) ![typescript](https://img.shields.io/badge/TypeScript-black?logo=typescript) 
