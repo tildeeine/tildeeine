@@ -1,6 +1,6 @@
 <h1> Tilde Eriksen Eine 👩‍🦰</h1>
 
-24-year-old developer currently in my fifth and final year of a M.Sc. in Cybersecurity and Data Communications at NTNU 💻🔐.
+24-year-old developer currently in my fifth and final year of a M.Sc. in Cybersecurity and Data Communications at NTNU, with a specialization in Information Security 💻🔐.
 
 <h2>📈 Stats </h2>
 
@@ -14,21 +14,19 @@
 
 <h2>💼 Languages and tools</h2>
 
-Languages: &nbsp;&nbsp;&nbsp;![python](https://img.shields.io/badge/Python-black?logo=python) ![Java](https://img.shields.io/badge/Java-black?logo=java) ![javascript](https://img.shields.io/badge/JavaScript-black?logo=javascript) ![typescript](https://img.shields.io/badge/TypeScript-black?logo=typescript) 
+### Programming languages
+![python](https://img.shields.io/badge/Python-black?logo=python) ![Java](https://img.shields.io/badge/Java-black?logo=java) ![javascript](https://img.shields.io/badge/JavaScript-black?logo=javascript) ![typescript](https://img.shields.io/badge/TypeScript-black?logo=typescript) ![C++](https://img.shields.io/badge/-C++-black?logo=cplusplus) ![Bash](https://img.shields.io/badge/Bash-black?logo=gnubash)
 
-Testing: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![jUnit5](https://img.shields.io/badge/jUnit5-black?logo=junit5) ![Mockito](https://img.shields.io/badge/mockito-black?logo=mockito)
+### Frameworks and libraries
+![Flask](https://img.shields.io/badge/FLask-black?logo=flask) ![Tailwind](https://img.shields.io/badge/tailwindcss-black?logo=tailwindcss) ![Next.js](https://img.shields.io/badge/next.js-black?logo=nextdotjs) ![React](https://img.shields.io/badge/React-black?logo=React)
 
-Other: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![vagrant](https://img.shields.io/badge/Vagrant-black?logo=vagrant)&nbsp;![kalilinux](https://img.shields.io/badge/KaliLinux-black?logo=kalilinux)&nbsp;![VirtualBox](https://img.shields.io/badge/VirtualBox-black?logo=VirtualBox)&nbsp;![React](https://img.shields.io/badge/React-black?logo=React)&nbsp;![Tailwind](https://img.shields.io/badge/tailwindcss-black?logo=tailwindcss)&nbsp;![Flask](https://img.shields.io/badge/flask-black?logo=flask)
+### Testing and DevOps
+![jUnit5](https://img.shields.io/badge/jUnit5-black?logo=junit5) ![Mockito](https://img.shields.io/badge/mockito-black?logo=mockito) ![vagrant](https://img.shields.io/badge/Vagrant-black?logo=vagrant) ![Docker](https://img.shields.io/badge/Docker-black?logo=docker) ![Git](https://img.shields.io/badge/Git-black?logo=git) ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github) 
 
+### Security tools and platforms
+![kalilinux](https://img.shields.io/badge/KaliLinux-black?logo=kalilinux)  ![BurpSuite](https://img.shields.io/badge/-BurpSuite-black) ![Wireshark](https://img.shields.io/badge/-Wireshark-black?logo=wireshark)
 
-<h2>📌Experience:</h2>
-
-- **Mnemonic Pentesting Intern**: Pentested two web applications for two different customers. Gained experience with Burp Suite.
-- **Visma Summer Intern**: Implemented a docs-as-code approach to Visma documentation, and scraped websites for current documentation. Gained experience with Docusaurus, Python, JavaScript/TypeScript, and React.
-- **Teaching Assistant**: Currently working as a TA in the courses "Digital Economics" and "Security and Robustness in ICT systems". Previously held TA positions in "Object-Oriented Programming" and "Experts in Teamwork". As a TA I grade student submissions to exercises, and hold guidance sessions. 
-- **Student Association Involvement**: I have been a member of the student association company committee, the class excursion committee, and am currently a member of the technical student association Ascend.
-
-
-Looking for opportunities to learn more in cybersecurity and data communications!
+### Specialized technologies
+![VirtualBox](https://img.shields.io/badge/VirtualBox-black?logo=VirtualBox) ![Terraform](https://img.shields.io/badge/Terraform-black?logo=terraform) ![ROS2](https://img.shields.io/badge/-ROS2-black) ![MAVSDK](https://img.shields.io/badge/-MAVSDK-black)
 
 
