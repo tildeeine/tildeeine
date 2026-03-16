@@ -1,7 +1,7 @@
 <h1> Tilde Eriksen Eine 👩‍🦰</h1>
 
-Final-year M.Sc. student in Cybersecurity and Data Communications at NTNU, specializing in Information Security 💻🔐.  
-Currently working on network systems and programming control software for autonomous drones @ Ascend NTNU.  
+M.Sc. Cybersecurity and Data Communications at NTNU, specialization in Information Security 💻🔐.  
+Working with cybersecurity in OT.
 
 <div>
 
